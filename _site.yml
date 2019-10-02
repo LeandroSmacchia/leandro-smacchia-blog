@@ -14,5 +14,6 @@ navbar:
 base_url: https://LeandroSmacchia.github.io/leandro-smacchia-blog/
 collections:
     posts:
+      disqus: leandro-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
