@@ -1,0 +1,16 @@
+---
+title: "Cute otters"
+description: |
+  Otters are very cute creatures
+author:
+  - name: Leandro Smacchia
+    url: {}
+date: 10-02-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+My two favorite animals are cats and otters. I find them very cute. I have several cats home and my dream is to have an otter as well.
+![](https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_otter.jpg)
+
