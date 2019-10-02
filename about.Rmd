@@ -2,7 +2,11 @@
 title: "About me"
 ---
 
+Name : Leandro  
+Surname : Smacchia  
+My english teacher : Ms Ingrid Van Lancker  
+My english group : Group 1  
+Academic year : 2019-2020  
+Class : BAB2 Biology  
 
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
+Subject : Biology
