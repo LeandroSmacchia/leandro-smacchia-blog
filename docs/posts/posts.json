@@ -1,35 +1,19 @@
 [
   {
-    "path": "posts/2019-10-02-cute-otters/",
-    "title": "Cute otters",
-    "description": "Otters are very cute creatures",
+    "path": "posts/2019-10-20-article1/",
+    "title": "Article 1 : UC San Diego Researchers Isolate Switch that Kills Inactive HIV",
+    "description": "Researchers have found a gene regulating HIV replication. Inactivating this gene would stop HIV multiplication.",
     "author": [
       {
-        "name": "Leandro Smacchia",
+        "name": "Smacchia Leandro",
         "url": {}
       }
     ],
-    "date": "2019-10-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-06T19:32:33+02:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
+    "date": "2019-10-20",
     "categories": [
-      "elephant",
-      "track"
+      "Treatment"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-06T19:32:33+02:00"
+    "preview": "posts/2019-10-20-article1/image/images.jpeg",
+    "last_modified": "2019-10-21T00:15:36+02:00"
   }
 ]
