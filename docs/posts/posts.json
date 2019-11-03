@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2019-11-03-article2/",
-    "title": "Article 2",
-    "description": "",
-    "author": [
-      {
-        "name": "Smacchia Leandro",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-03",
-    "categories": [],
-    "preview": "posts/2019-11-03-article2/images",
-    "last_modified": "2019-11-03T20:28:01+01:00"
-  },
-  {
     "path": "posts/2019-10-20-article1/",
     "title": "Article 1 : UC San Diego Researchers Isolate Switch that Kills Inactive HIV",
     "description": "Researchers have found a gene regulating HIV replication. Inactivating this gene would stop HIV multiplication.",
@@ -29,6 +14,23 @@
       "Treatment"
     ],
     "preview": "posts/2019-10-20-article1/image/images.jpeg",
-    "last_modified": "2019-10-21T00:25:19+02:00"
+    "last_modified": "2019-11-03T19:32:38+01:00"
+  },
+  {
+    "path": "posts/2019-11-03-article2/",
+    "title": "Article 2 : Belgian researchers unveil breakthrough discovery for HIV treatment",
+    "description": "The university of Gent found where the residual cells of the disease hid",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-03-11",
+    "categories": [
+      "Understanding of the disease"
+    ],
+    "preview": "posts/2019-11-03-article2/images/32596243406_13a83a2a4c_z.jpg",
+    "last_modified": "2019-11-03T21:30:29+01:00"
   }
 ]
