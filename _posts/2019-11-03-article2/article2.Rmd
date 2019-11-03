@@ -4,8 +4,8 @@ description: "The university of Gent found where the residual cells of the disea
 author:
   - name: Smacchia Leandro
     url: {}
-date: 03-11-2019
-preview: images/32596243406_13a83a2a4c_z.jpg
+date: 11-03-2019
+preview: Images/32596243406_13a83a2a4c_z.jpg
 categories: Understanding of the disease
 output:
   distill::distill_article:
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![A woman holds an antiretroviral drug to treat HIV infection in her palm. Credit: NIAID/Flickr (CC BY 2.0)](images/32596243406_13a83a2a4c_z.jpg)
+![A woman holds an antiretroviral drug to treat HIV infection in her palm. Credit: NIAID/Flickr (CC BY 2.0)](Images/32596243406_13a83a2a4c_z.jpg)
 
 
 Word count : 399

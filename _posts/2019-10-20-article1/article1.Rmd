@@ -4,8 +4,8 @@ description: "Researchers have found a gene regulating HIV replication. Inactiva
 author:
   - name: Smacchia Leandro
     url: {}
-date: 20-10-2019
-preview: image/images.jpeg
+date: 10-20-2019
+preview: Image/images.jpeg
 categories: Treatment
 output:
   distill::distill_article:
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](image/images.jpeg)
+![](Image/images.jpeg)
 
 
 Word count : 498
