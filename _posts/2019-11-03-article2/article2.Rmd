@@ -1,0 +1,50 @@
+---
+title: "Article 2 : Belgian researchers unveil breakthrough discovery for HIV treatment"
+description: "The university of Gent found where the residual cells of the disease hid"
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 03-11-2019
+preview: images/32596243406_13a83a2a4c_z.jpg
+categories: Understanding of the disease
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![A woman holds an antiretroviral drug to treat HIV infection in her palm. Credit: NIAID/Flickr (CC BY 2.0)](images/32596243406_13a83a2a4c_z.jpg)
+
+
+Word count : 399
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+| Breakthrough | Major progress or advance | Percée|
+| Inhibitors | Drug that prevents a chemical reaction | Inhibiteur |
+| To keep at bay | To prevent getting closer or keeping silent| Prévenir |
+| To boost | To promote | Stimuler |
+| To acknowledge | To admit| Admettre|
+| Novel | New, different | Novateur|
+| To dispell | To scatter | Dissiper |
+| Effort | Attempt| Effort |
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** | Marie-Angelique De Scheerder and  Linos Vandekerckhove from UZ Gent University |
+| **Date of publication and newspaper** | 18-09-2019 / *The Brussels Times* |
+| **General topic** | Identification of the places where the residual cells hide |
+| **Procedure / what was examined** | 11 patients stopped taking their antiretroviral treatment and were examined closely. The aim was to see when and where the virus would reappear. |
+| **Conclusion / discovery** | The residual cells are hidden everywhere throughout the body. They are active cells |
+| **Remaining questions** | How to fight these residual cells and how to eradicate them ? |
+
+<https://www.brusselstimes.com/all-news/belgium-all-news/health/68651/belgian-researchers-unveil-breakthrough-discovery-in-hiv-treatment/>

@@ -4,7 +4,7 @@ description: "Researchers have found a gene regulating HIV replication. Inactiva
 author:
   - name: Smacchia Leandro
     url: {}
-date: 10-20-2019
+date: 20-10-2019
 preview: image/images.jpeg
 categories: Treatment
 output:
@@ -40,10 +40,10 @@ Word count : 498
 |  |  |  |
 |--|--|--|
 | **Researchers** | Tariq Rana, Ti-Chun Chao, Qiong Zhang, Zhonghan Li, Shashi Kant Tiwari, Yue Qin, Edwin Yau, Gatikrushna Singh, Kungyen Chang and Maile Ann Young Karris from UC San Diego; Ana Sanchez from Sanford Burnham Prebys Medical Discovery Institute; Marcus Kaul from Sanford Burnham Prebys Medical Discovery Institute and UC Riverside |
-| **Date of publication and newspaper** | 09-24-2019 / UC San Diego News Center |
+| **Date of publication and newspaper** | 09-24-2019 / *UC San Diego News Center* |
 | **General topic** | Discovery of a gene that regulates HIV replication in immune cells |
 | **Procedure / what was examined** | Antiretroviral therapy prevents HIV to infect the whole body and cause AIDS. It does not cure patients. When untreated, HIV spreads thgough the organism. HIV replication in immune cells are due to a gene discovered though genetic sequencing and called HEAL. Researchers found using biochemical and cellular techniques that suppressing or shutting this gene down would prevent HIV to multiply and spread. |
-| **Conclusion** / discovery | The gene that regulates HIV replication was found. If it is inhibited it will prevent HIV multiplication. A cure could be developped with this discovery. |
+| **Conclusion / discovery** | The gene that regulates HIV replication was found. If it is inhibited it will prevent HIV multiplication. A cure could be developped with this discovery. |
 | **Remaining questions** | How does the gene Heal come to be expressed when infected by the HIV ? How can we develop an effective cure ? |
 
 <https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-researchers-isolate-switch-that-kills-inactive-hiv>
