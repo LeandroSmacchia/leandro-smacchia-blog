@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-17-article3/",
+    "title": "Article 3 : New HIV drug launched",
+    "description": "A new, more efficient antiretroviral therapy has been launched in Zimbabwe",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-17",
+    "categories": [
+      "Treatment"
+    ],
+    "preview": "posts/2019-11-17-article3/Images/Dr-Owen-Mugurungi-.jpg",
+    "last_modified": "2019-11-17T18:26:57+01:00"
+  },
+  {
     "path": "posts/2019-11-03-article2/",
     "title": "Article 2 : Belgian researchers unveil breakthrough discovery for HIV treatment",
     "description": "The university of Gent found where the residual cells of the disease hid",

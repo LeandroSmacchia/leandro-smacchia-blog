@@ -1,0 +1,53 @@
+---
+title: "Article  : "
+description: ""
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 11-17-2019
+preview: 
+categories: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![]()
+
+
+Word count : 
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** |  |
+| **Date of publication and newspaper** |  /  |
+| **General topic** |  |
+| **Procedure / what was examined** |  |
+| **Conclusion / discovery** |  |
+| **Remaining questions** |  |
+
+<>

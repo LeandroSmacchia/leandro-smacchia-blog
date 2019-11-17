@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://LeandroSmacchia.github.io/leandro-smacchia-blog/about.html</loc>
-    <lastmod>2019-11-03T19:32:38+01:00</lastmod>
+    <lastmod>2019-10-06T19:39:14+02:00</lastmod>
   </url>
   <url>
     <loc>https://LeandroSmacchia.github.io/leandro-smacchia-blog/english-activity.html</loc>
-    <lastmod>2019-11-03T19:32:38+01:00</lastmod>
+    <lastmod>2019-10-06T19:32:33+02:00</lastmod>
   </url>
   <url>
     <loc>https://LeandroSmacchia.github.io/leandro-smacchia-blog/</loc>
-    <lastmod>2019-11-03T19:32:38+01:00</lastmod>
+    <lastmod>2019-10-06T19:37:28+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://LeandroSmacchia.github.io/leandro-smacchia-blog/posts/2019-11-17-article3/</loc>
+    <lastmod>2019-11-17T18:26:57+01:00</lastmod>
   </url>
   <url>
     <loc>https://LeandroSmacchia.github.io/leandro-smacchia-blog/posts/2019-11-03-article2/</loc>

@@ -1,0 +1,53 @@
+---
+title: "Article 4 : "
+description: ""
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 11-17-2019
+preview: 
+categories: Treatment
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![]()
+
+
+Word count : 236
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** |  |
+| **Date of publication and newspaper** |  /  |
+| **General topic** |  |
+| **Procedure / what was examined** |  |
+| **Conclusion / discovery** |  |
+| **Remaining questions** |  |
+
+<https://medicalxpress.com/news/2019-10-antiretroviral-hiv-medication-attenuates-liver.html>

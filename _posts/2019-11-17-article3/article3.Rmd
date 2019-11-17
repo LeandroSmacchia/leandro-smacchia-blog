@@ -1,0 +1,49 @@
+---
+title: "Article 3 : New HIV drug launched"
+description: "A new, more efficient antiretroviral therapy has been launched in Zimbabwe"
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 11-17-2019
+preview: Images/Dr-Owen-Mugurungi-.jpg
+categories: Treatment
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![Dr Owen Mugurungi](Images/Dr-Owen-Mugurungi-.jpg)
+
+
+Word count : 451
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+| Rollout | Launch of a program or product | Lancement, mise en oeuvre |
+| To take cognisance of | Acknowledge | Prendre connaissance de |
+| Hence | Therefore | D'où |
+| Screening | Scan for abnormalities | Dépistage |
+| Facility | Building, unit | Complexe, établissement |
+
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** | Dr. Owen Mugurungi |
+| **Date of publication and newspaper** | 11-11-2019 / Chronicle.co.zw |
+| **General topic** | A new antiretroviral drug has been launched in zimbabwe. |
+| **Procedure / what was examined** | / |
+| **Conclusion / discovery** | It has less side effects than the previous one. "It is more effective in viral supression". It inhibits the ability of the virus to replicate. |
+| **Remaining questions** | Will the new medication be worth the switch ? Still this isn't a treatment that cures from HIV, will we discover one ? |
+
+<https://www.chronicle.co.zw/new-hiv-drug-launched/>
