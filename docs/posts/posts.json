@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-17-article4/",
+    "title": "Article 4 : Newly discovered immune cells at the frontline of HIV infection",
+    "description": "New immune cells involved in HIV infection were discovered.",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-01",
+    "categories": [
+      "Understanding of the disease"
+    ],
+    "preview": "posts/2019-11-17-article4/Images/13-newlydiscove.jpg",
+    "last_modified": "2019-12-02T00:54:27+01:00"
+  },
+  {
     "path": "posts/2019-11-17-article3/",
     "title": "Article 3 : New HIV drug launched",
     "description": "A new, more efficient antiretroviral therapy has been launched in Zimbabwe",
@@ -14,7 +31,7 @@
       "Treatment"
     ],
     "preview": "posts/2019-11-17-article3/Images/Dr-Owen-Mugurungi-.jpg",
-    "last_modified": "2019-11-17T18:35:37+01:00"
+    "last_modified": "2019-12-01T18:57:47+01:00"
   },
   {
     "path": "posts/2019-11-17-meal/",
@@ -29,7 +46,7 @@
     "date": "2019-11-17",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-17T18:36:55+01:00"
+    "last_modified": "2019-12-01T18:57:48+01:00"
   },
   {
     "path": "posts/2019-11-03-article2/",
@@ -46,7 +63,7 @@
       "Understanding of the disease"
     ],
     "preview": "posts/2019-11-03-article2/Images/32596243406_13a83a2a4c_z.jpg",
-    "last_modified": "2019-11-17T17:17:13+01:00"
+    "last_modified": "2019-12-01T18:57:47+01:00"
   },
   {
     "path": "posts/2019-10-20-article1/",
@@ -63,6 +80,6 @@
       "Treatment"
     ],
     "preview": "posts/2019-10-20-article1/Image/images.jpeg",
-    "last_modified": "2019-11-17T17:17:13+01:00"
+    "last_modified": "2019-11-04T00:01:09+01:00"
   }
 ]
