@@ -40,7 +40,7 @@ Word count : 451
 |  |  |  |
 |--|--|--|
 | **Researchers** | Dr. Owen Mugurungi |
-| **Date of publication and newspaper** | 11-11-2019 / Chronicle.co.zw |
+| **Date of publication and newspaper** | 11-11-2019 / *Chronicle.co.zw* |
 | **General topic** | A new antiretroviral drug has been launched in zimbabwe. |
 | **Procedure / what was examined** | / |
 | **Conclusion / discovery** | It has less side effects than the previous one. "It is more effective in viral supression". It inhibits the ability of the virus to replicate. |
