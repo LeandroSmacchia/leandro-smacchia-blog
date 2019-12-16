@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-12-16-article5/",
+    "title": "Article 5 : Newly developed approach shows promise in silencing HIV infection",
+    "description": "A new way of treatinf HIV is being developped",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-15",
+    "categories": [
+      "Treatment"
+    ],
+    "preview": "posts/2019-12-16-article5/Image/images.jpeg",
+    "last_modified": "2019-12-16T03:08:11+01:00"
+  },
+  {
     "path": "posts/2019-11-17-article4/",
     "title": "Article 4 : Newly discovered immune cells at the frontline of HIV infection",
     "description": "New immune cells involved in HIV infection were discovered.",

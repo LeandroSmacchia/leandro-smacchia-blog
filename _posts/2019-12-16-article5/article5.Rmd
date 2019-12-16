@@ -1,0 +1,49 @@
+---
+title: "Article 5 : Newly developed approach shows promise in silencing HIV infection"
+description: "A new way of treatinf HIV is being developped"
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 12-15-2019
+preview: Image/images.jpeg
+categories: Treatment
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://www.sciencedaily.com/releases/2019/08/190806121149.htm>
+
+
+![](Image/images.jpeg)
+
+
+Word count : 478
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+| To wreak havoc | To cause great damage  | Faire des ravages |
+| To harness | To utilize | Exploiter |
+| Epigenetic | Relating to, being, or involving changes in gene function that do not involve changes in DNA sequence  | Epigénétique |
+| Pharmacology | The science of drugs including their origin, composition, pharmacokinetics, therapeutic use, and toxicology | Pharmacologie |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** | Haitao Hu, Jia Zhou, Qingli Niu, Zhiqing Liu, Edrous Alamer, Xiuzhen Fan, Haiying Chen, Janice Endsley, Benjamin Gelman and Bing Tian from the UTMB and Jintanat Ananworanich, Nelson Michael, Jerome Kim and Merlin Robb from the U.S. Military HIV Research Program |
+| **Date of publication and newspaper** | 06-08- / *ScienceDaily* |
+| **General topic** | Development of a new way of treating HIV that focuses on a protein regulating gene replication |
+| **Procedure / what was examined** | They created a set of chemical coupounds they tested with the aim to make the target-protein destroy the HIV. They then applied further tests to the best coumpound. |
+| **Conclusion / discovery** | It has considerably slown down the comeback of the HIV on an infection model. |
+| **Remaining questions** | They will carry on with improving this kind of molecules. Effectiveness of a tratment ? |
+
+
