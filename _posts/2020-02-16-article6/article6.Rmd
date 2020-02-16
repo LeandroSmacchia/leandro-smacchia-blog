@@ -1,0 +1,53 @@
+---
+title: "Article 6 : Taking shape: Scientists propose new structure for shell of HIV-1 virus"
+description: "We may have misunderstood the shape of the virus. Scientists propose a new one."
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 02-16-2020
+preview: Image/1920_191209-hiv-model-banner-730917.jpg
+categories: Understanding of the disease
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://www.sciencedaily.com/releases/2019/12/191213124917.htm>
+
+
+![Computer model based on new research that suggests the HIV-1 virus is encased in a spherical shell, which opens like flower petals to release the virus when it infects a healthy cell. (Image: Marcelo Marcet-Palacios)](Image/1920_191209-hiv-model-banner-730917.jpg)
+
+
+Word count : 426
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+| Matrix | A mould | Matrice, moule |
+| Capsid | The protein shell of a virus | Capside |
+| Peculiar | Specific to | Charactéristique |
+| Undergraduate | Person studying for first degree | Bachelier(ère) |
+| A Cross-link (to cross-link) | A bond that links one polymer chain to another (to make that bond) | Réticulation (réticuler) |
+| Alumnus | Someone who has left a school, college, or university after finishing their studies there | Alumnus |
+| To come up with sth | To suggest or think of an idea or plan | Fourninr, proposer |
+| Consistent | Matching other information | Qui correspond |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** | Sean Graves, Marcelo Marcet-Palacios and namely Weijie Sun from the university of Alberta |
+| **Date of publication and newspaper** | 12-13-2019 / *ScienceDaily* |
+| **General topic** | The shape of the HIV virus and its implications. |
+| **Procedure / what was examined** | The shape previously used to visualise the HIV-1 virus shell was mathematically examined and proven to be impossible. Still with a mathematical approach, they tried to create a new model. |
+| **Conclusion / discovery** | A new "flower-like" model with "petals" opening to inject the virus into the target cell is proposed. |
+| **Remaining questions** | If it is correct, this new shape could lead to finding a way of blocking its mechanisms, namely those of viral entry. |
+
+
