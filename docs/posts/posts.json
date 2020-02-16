@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-16-article6/",
+    "title": "Article 6 : Taking shape: Scientists propose new structure for shell of HIV-1 virus",
+    "description": "We may have misunderstood the shape of the virus. Scientists propose a new one.",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-16",
+    "categories": [
+      "Understanding of the disease"
+    ],
+    "preview": "posts/2020-02-16-article6/Image/1920_191209-hiv-model-banner-730917.jpg",
+    "last_modified": "2020-02-16T18:20:09+01:00"
+  },
+  {
     "path": "posts/2019-12-16-article5/",
     "title": "Article 5 : Newly developed approach shows promise in silencing HIV infection",
     "description": "A new way of treatinf HIV is being developped",
