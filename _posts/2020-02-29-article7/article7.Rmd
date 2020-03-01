@@ -1,0 +1,51 @@
+---
+title: "Article 7 : Can Gene Therapy Cure HIV? US Gov't. Is Banking $100 Million On It."
+description: "The U.S. National Institutes of Health and The Bill & Melinda Gates Foundation are willing to cure HIV and sickle cell disease with gene therapies and will invest each 100 million dollars in 4 years on it"
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 02-29-2020
+preview: Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg
+categories: Treatment
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://www.livescience.com/hiv-gene-therapy-cure-nih.html>
+
+
+![Image: © Shutterstock](Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg)
+
+
+Word count : 539
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+| Agency | Company that represents | Agence |
+| Effort | An attempt for which you try hard | Effort |
+| Critically | Significantly| Significativement, concrètement |
+| Proviral DNA | Provirus : the genetic material of a virus as incorporated into, and able to replicate with, the genome of a host cell. | ADN proviral ou "Provirus" |
+| To lurk | To wait hidden | Se cacher, se tapir, rôder |
+| To tackle (a problem) | To get down on a problem and try to solve them | S'attaquer à (un problème) |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** | Dr. Francis Collins, director of the NIH, Dr. Anthony Fauci, director of The National Institute of Allergy and Infectious Diseases |
+| **Date of publication and newspaper** | 10-23-2020 / *LiveScience* |
+| **General topic** | Treatment of the HIV and the sickle cell disease with gene therapies |
+| **Procedure / what was examined** | Antiretroviral does not cure HIV. Moreover, it is often times not affordable in some countries. Previous tries in gene therapies weren't more affordable either. They try here to develop gene therapies to cure those diseases and to dispense it at a reasonable price. They will focus on "In vivo" gates. |
+| **Conclusion / discovery** | It will be a long-term investment for this alliance. |
+| **Remaining questions** | One way to do this could be taking off the gene for the CCR5 receptor (useful to make the HIV enter the cells). A second way could be removing the proviral DNA that the retroviral virus printed into the genome (it still is present throughout the body after years of medication). |
+
+

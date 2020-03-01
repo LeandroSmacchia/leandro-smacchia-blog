@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-29-article7/",
+    "title": "Article 7 : Can Gene Therapy Cure HIV? US Gov't. Is Banking $100 Million On It.",
+    "description": "The U.S. National Institutes of Health and The Bill & Melinda Gates Foundation are willing to cure HIV and sickle cell disease with gene therapies and will invest each 100 million dollars in 4 years on it",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-29",
+    "categories": [
+      "Treatment"
+    ],
+    "preview": "posts/2020-02-29-article7/Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg",
+    "last_modified": "2020-03-01T14:16:12+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article6/",
     "title": "Article 6 : Taking shape: Scientists propose new structure for shell of HIV-1 virus",
     "description": "We may have misunderstood the shape of the virus. Scientists propose a new one.",
@@ -69,8 +86,8 @@
   },
   {
     "path": "posts/2019-11-17-meal/",
-    "title": "meal",
-    "description": "A short description of the post.",
+    "title": "My English Activity log",
+    "description": "Here is a brief depiction of what i am doing every day or week, or even more occasionally in english.",
     "author": [
       {
         "name": "Smacchia Leandro",
@@ -79,8 +96,8 @@
     ],
     "date": "2019-11-17",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-01T18:57:48+01:00"
+    "preview": "posts/2019-11-17-meal/Image/Binging_with_Babish.jpg",
+    "last_modified": "2020-03-01T14:58:48+01:00"
   },
   {
     "path": "posts/2019-11-03-article2/",

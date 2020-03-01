@@ -1,11 +1,11 @@
 ---
-title: "meal"
-description: |
-  A short description of the post.
+title: "My English Activity log"
+description: Here is a brief depiction of what i am doing every day or week, or even more occasionally in english.
 author:
   - name: Smacchia Leandro
     url: {}
 date: 11-17-2019
+preview: Image/Binging_with_Babish.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,99 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# My English activity log
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## My daily activities
 
+### Readings
+
+* Memes on Facebook
+
+
+### Watchings
+
+* Youtube videos
+  + Cooking (Gordon Ramsey, Binging with Babish)
+  + Food (Matt Stonie, BeardMeetsFood, Epicurious, Bon appétit, Good Mythical Morning, etc)
+  + Music tutorials
+  + Gaming (LowkoTV)
+
+
+### Listenings
+
+* Music (most of the time : Rock)
+  + Red Hot Chili Peppers
+  + Metallica
+  + Depeche Mode
+  + Weezer
+  + ...
+
+### Other activities
+
+
+
+
+
+## My weekly activities
+
+### Readings
+
+* News
+* Articles
+
+
+### Watchings
+
+
+
+
+### Listenings
+
+
+
+
+### Other activities
+
+* Just practicing my english, speaking, reading or listening. Alone or with sb.
+* Using to describe, reading to learn or searching to understand scientific words, scientific papers or scientific explanations. More precisely, it is often centered on biology.
+
+
+## My occasionally activities
+
+### Readings
+
+
+
+
+### Watchings
+
+* Films
+  + The lord of the rings
+  + Spiderman
+  + Star wars
+  + The matrix
+  + Harry Potter
+  + The hunger games
+  + ...
+
+
+### Listenings
+
+
+
+
+### Other activities
+
+* Gaming
+  + Games in english (Dawn of war : Soulstorm, etc)
+  + Most importantly, playing with english speakers from all around the world (including natives) -> Talking with them : By writings or in a call.
+* Helping friends to do their english homework.
+* Using my english in holidays when i'm in a foreigner coountry.
+* Speaking english with a lab assistant
+
+
+
+
+# A short description of the log
+
+Actually, i may have forgotten some things to add in the log. As i think that english is a useful language to master, i tend to do things in english or in french like they were equal to me. For exemple, when i watch youtube videos, sometimes i can't remember if the video was in french or in english. That is due to the habbits i am willing to developp.
