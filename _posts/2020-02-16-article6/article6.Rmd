@@ -44,7 +44,7 @@ Word count : 426
 |  |  |  |
 |--|--|--|
 | **Researchers** | Sean Graves, Marcelo Marcet-Palacios and namely Weijie Sun from the university of Alberta |
-| **Date of publication and newspaper** | 12-13-2019 / *ScienceDaily* |
+| **Date of publication and newspaper** | 13-12-2019 / *ScienceDaily* |
 | **General topic** | The shape of the HIV virus and its implications. |
 | **Procedure / what was examined** | The shape previously used to visualise the HIV-1 virus shell was mathematically examined and proven to be impossible. Still with a mathematical approach, they tried to create a new model. |
 | **Conclusion / discovery** | A new "flower-like" model with "petals" opening to inject the virus into the target cell is proposed. |

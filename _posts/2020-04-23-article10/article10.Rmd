@@ -4,8 +4,8 @@ description: ""
 author:
   - name: Smacchia Leandro
     url: {}
-date: 04-22-2020
-preview: 
+date: 04-23-2020
+preview: Image/Adam.jpg
 categories: Gene therapy and other new treatments
 output:
   distill::distill_article:
@@ -19,10 +19,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <https://www.bbc.com/news/health-51804454>
 
 
-![]()
+![Adam Castillejo wants to be "an ambassador of hope"](Image/Adam.jpg)
 
 
-Word count : 
+Word count : 648
 
 
 ## Vocabulary 
@@ -45,8 +45,8 @@ Word count :
 
 |  |  |  |
 |--|--|--|
-| **Researchers** |  |
-| **Date of publication and newspaper** |  /  |
+| **Researchers** | Ravindra Kumar Gupta from the University of Cambridge |
+| **Date of publication and newspaper** | 10-03-2020 / *BBC NEWS* |
 | **General topic** |  |
 | **Procedure / what was examined** |  |
 | **Conclusion / discovery** |  |

@@ -42,7 +42,7 @@ Word count : 539
 |  |  |  |
 |--|--|--|
 | **Researchers** | Dr. Francis Collins, director of the NIH, Dr. Anthony Fauci, director of The National Institute of Allergy and Infectious Diseases |
-| **Date of publication and newspaper** | 10-23-2020 / *LiveScience* |
+| **Date of publication and newspaper** | 23-10-2020 / *LiveScience* |
 | **General topic** | Treatment of the HIV and the sickle cell disease with gene therapies |
 | **Procedure / what was examined** | Antiretroviral does not cure HIV. Moreover, it is often times not affordable in some countries. Previous tries in gene therapies weren't more affordable either. They try here to develop gene therapies to cure those diseases and to dispense it at a reasonable price. They will focus on "In vivo" gates. |
 | **Conclusion / discovery** | It will be a long-term investment for this alliance. |

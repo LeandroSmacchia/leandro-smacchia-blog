@@ -1,12 +1,12 @@
 ---
-title: "Article 8 : Antiretroviral HIV medication attenuates liver fibrosis"
+title: "Article 9 : Innate protein restricts HIV replication by targeting lipid rafts"
 description: ""
 author:
   - name: Smacchia Leandro
     url: {}
-date: 04-20-2020
-preview: 
-categories: Antiretroviral therapy
+date: 04-22-2020
+preview: Image/1-hiv.jpg
+categories: Gene therapy and other new treatments
 output:
   distill::distill_article:
     self_contained: false
@@ -16,13 +16,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<https://medicalxpress.com/news/2019-10-antiretroviral-hiv-medication-attenuates-liver.html>
+<https://www.sciencedaily.com/releases/2020/02/200210104118.htm>
 
 
-![]()
+![Microscopic image of an HIV-infected T cell. Credit: NIAID](Image/1-hiv.jpg)
 
 
-Word count : 
+Word count : 333
 
 
 ## Vocabulary 
@@ -45,8 +45,8 @@ Word count :
 
 |  |  |  |
 |--|--|--|
-| **Researchers** |  |
-| **Date of publication and newspaper** |  /  |
+| **Researchers** | Michael Bukrinsky from the George Washington University |
+| **Date of publication and newspaper** | 10-02-2020 / *ScienceDaily* |
 | **General topic** |  |
 | **Procedure / what was examined** |  |
 | **Conclusion / discovery** |  |

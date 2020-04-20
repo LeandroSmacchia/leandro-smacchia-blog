@@ -1,12 +1,12 @@
 ---
-title: "Article 9 : Innate protein restricts HIV replication by targeting lipid rafts"
+title: "Article 8 : Antiretroviral HIV medication attenuates liver fibrosis"
 description: ""
 author:
   - name: Smacchia Leandro
     url: {}
 date: 04-21-2020
-preview: 
-categories: Gene therapy and other new treatments
+preview: Image/ValenciaUC.jpg
+categories: Antiretroviral therapy
 output:
   distill::distill_article:
     self_contained: false
@@ -16,13 +16,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<https://www.sciencedaily.com/releases/2020/02/200210104118.htm>
+<https://medicalxpress.com/news/2019-10-antiretroviral-hiv-medication-attenuates-liver.html>
 
 
-![]()
+![Rilpivirine research group. Credit: Valencia University](Image/ValenciaUC.jpg)
 
 
-Word count : 
+Word count : 230
 
 
 ## Vocabulary 
@@ -45,8 +45,8 @@ Word count :
 
 |  |  |  |
 |--|--|--|
-| **Researchers** |  |
-| **Date of publication and newspaper** |  /  |
+| **Researchers** | Scientists from Valencia University (UV) |
+| **Date of publication and newspaper** | 22-10-2019 / *MedicalXpress* |
 | **General topic** |  |
 | **Procedure / what was examined** |  |
 | **Conclusion / discovery** |  |
