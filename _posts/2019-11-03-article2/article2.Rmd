@@ -16,6 +16,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<https://www.brusselstimes.com/all-news/belgium-all-news/health/68651/belgian-researchers-unveil-breakthrough-discovery-in-hiv-treatment/>
+
 
 ![A woman holds an antiretroviral drug to treat HIV infection in her palm. Credit: NIAID/Flickr (CC BY 2.0)](Images/32596243406_13a83a2a4c_z.jpg)
 
@@ -47,4 +49,4 @@ Word count : 399
 | **Conclusion / discovery** | The residual cells are hidden everywhere throughout the body. They are active cells |
 | **Remaining questions** | How to fight these residual cells and how to eradicate them ? |
 
-<https://www.brusselstimes.com/all-news/belgium-all-news/health/68651/belgian-researchers-unveil-breakthrough-discovery-in-hiv-treatment/>
+

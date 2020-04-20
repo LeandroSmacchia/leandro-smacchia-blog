@@ -1,5 +1,56 @@
 [
   {
+    "path": "posts/2020-04-20-article10/",
+    "title": "Article 10 : Second patient cured of HIV, say doctors",
+    "description": "",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-20",
+    "categories": [
+      "Gene therapy and other new treatments"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-20T16:50:45+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-article8/",
+    "title": "Article 8 : Antiretroviral HIV medication attenuates liver fibrosis",
+    "description": "",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-20",
+    "categories": [
+      "Antiretroviral therapy"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-20T16:55:09+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-article9/",
+    "title": "Article 9 : Innate protein restricts HIV replication by targeting lipid rafts",
+    "description": "",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-20",
+    "categories": [
+      "Gene therapy and other new treatments"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-20T16:55:26+02:00"
+  },
+  {
     "path": "posts/2020-02-29-article7/",
     "title": "Article 7 : Can Gene Therapy Cure HIV? US Gov't. Is Banking $100 Million On It.",
     "description": "The U.S. National Institutes of Health and The Bill & Melinda Gates Foundation are willing to cure HIV and sickle cell disease with gene therapies and will invest each 100 million dollars in 4 years on it",
@@ -11,10 +62,10 @@
     ],
     "date": "2020-02-29",
     "categories": [
-      "Treatment"
+      "Gene therapy and other new treatments"
     ],
     "preview": "posts/2020-02-29-article7/Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg",
-    "last_modified": "2020-03-01T14:16:14+01:00"
+    "last_modified": "2020-04-20T16:54:31+02:00"
   },
   {
     "path": "posts/2020-02-16-article6/",
@@ -31,12 +82,12 @@
       "Understanding of the disease"
     ],
     "preview": "posts/2020-02-16-article6/Image/1920_191209-hiv-model-banner-730917.jpg",
-    "last_modified": "2020-02-16T18:20:09+01:00"
+    "last_modified": "2020-04-20T16:50:24+02:00"
   },
   {
     "path": "posts/2019-12-16-article5/",
     "title": "Article 5 : Newly developed approach shows promise in silencing HIV infection",
-    "description": "A new way of treatinf HIV is being developped",
+    "description": "A new way of treating HIV is being developped",
     "author": [
       {
         "name": "Smacchia Leandro",
@@ -45,10 +96,10 @@
     ],
     "date": "2019-12-15",
     "categories": [
-      "Treatment"
+      "Gene therapy and other new treatments"
     ],
     "preview": "posts/2019-12-16-article5/Image/images.jpeg",
-    "last_modified": "2019-12-16T03:08:11+01:00"
+    "last_modified": "2020-04-20T16:54:21+02:00"
   },
   {
     "path": "posts/2019-11-17-article4/",
@@ -79,25 +130,10 @@
     ],
     "date": "2019-11-17",
     "categories": [
-      "Treatment"
+      "Antiretroviral therapy"
     ],
     "preview": "posts/2019-11-17-article3/Images/Dr-Owen-Mugurungi-.jpg",
-    "last_modified": "2019-12-01T18:57:47+01:00"
-  },
-  {
-    "path": "posts/2019-11-17-meal/",
-    "title": "My English Activity log",
-    "description": "Here is a brief depiction of what i am doing every day or week, or even more occasionally in english.",
-    "author": [
-      {
-        "name": "Smacchia Leandro",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-17",
-    "categories": [],
-    "preview": "posts/2019-11-17-meal/Image/Binging_with_Babish.jpg",
-    "last_modified": "2020-03-01T14:58:50+01:00"
+    "last_modified": "2020-04-20T16:53:19+02:00"
   },
   {
     "path": "posts/2019-11-03-article2/",
@@ -128,9 +164,24 @@
     ],
     "date": "2019-10-20",
     "categories": [
-      "Treatment"
+      "Gene therapy and other new treatments"
     ],
     "preview": "posts/2019-10-20-article1/Image/images.jpeg",
-    "last_modified": "2019-11-04T00:01:09+01:00"
+    "last_modified": "2020-04-20T16:52:16+02:00"
+  },
+  {
+    "path": "posts/2019-11-17-meal/",
+    "title": "My English Activity log",
+    "description": "Here is a brief depiction of what i am doing every day or week, or even more occasionally in english.",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-06",
+    "categories": [],
+    "preview": "posts/2019-11-17-meal/Image/Binging_with_Babish.jpg",
+    "last_modified": "2020-04-20T16:05:05+02:00"
   }
 ]

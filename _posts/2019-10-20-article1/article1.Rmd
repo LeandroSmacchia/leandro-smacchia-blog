@@ -6,7 +6,7 @@ author:
     url: {}
 date: 10-20-2019
 preview: Image/images.jpeg
-categories: Treatment
+categories: Gene therapy and other new treatments
 output:
   distill::distill_article:
     self_contained: false
@@ -15,6 +15,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+<https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-researchers-isolate-switch-that-kills-inactive-hiv>
 
 
 ![](Image/images.jpeg)
@@ -46,4 +48,4 @@ Word count : 498
 | **Conclusion / discovery** | The gene that regulates HIV replication was found. If it is inhibited it will prevent HIV multiplication. A cure could be developped with this discovery. |
 | **Remaining questions** | How does the gene Heal come to be expressed when infected by the HIV ? How can we develop an effective cure ? |
 
-<https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-researchers-isolate-switch-that-kills-inactive-hiv>
+

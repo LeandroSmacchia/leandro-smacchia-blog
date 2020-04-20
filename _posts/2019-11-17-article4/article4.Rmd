@@ -16,6 +16,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<https://medicalxpress.com/news/2019-06-newly-immune-cells-frontline-hiv.html>
+
 
 ![1 / 1Sampling of HIV (red) by the newly described dendritic cells (green). Credit: The Westmead Institute for Medical Research](Images/13-newlydiscove.jpg)
 
@@ -45,4 +47,4 @@ Word count : 591
 | **Conclusion / discovery** | These cells that are called CD11c+ dendritic cells capture a pathogen (in this case HIV virus) and communicate it to the CD4 T cells in the lymph nodes to help the immune system preparing. By doing so, they lead the HIV to their main targets, the CD4 T cells. |
 | **Remaining questions** | Prevent HIV from binding to the CD11c+ dendritic cells ? Develop a vaccine ? |
 
-<https://medicalxpress.com/news/2019-06-newly-immune-cells-frontline-hiv.html>
+

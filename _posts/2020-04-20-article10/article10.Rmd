@@ -1,0 +1,55 @@
+---
+title: "Article 10 : Second patient cured of HIV, say doctors"
+description: ""
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 
+preview: 
+categories: Gene therapy and other new treatments
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://www.bbc.com/news/health-51804454>
+
+
+![]()
+
+
+Word count : 
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** |  |
+| **Date of publication and newspaper** |  /  |
+| **General topic** |  |
+| **Procedure / what was examined** |  |
+| **Conclusion / discovery** |  |
+| **Remaining questions** |  |
+
+

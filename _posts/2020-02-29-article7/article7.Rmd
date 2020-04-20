@@ -6,7 +6,7 @@ author:
     url: {}
 date: 02-29-2020
 preview: Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg
-categories: Treatment
+categories: Gene therapy and other new treatments
 output:
   distill::distill_article:
     self_contained: false

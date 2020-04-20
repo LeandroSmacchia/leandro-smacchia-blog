@@ -1,0 +1,55 @@
+---
+title: "Article 8 : Antiretroviral HIV medication attenuates liver fibrosis"
+description: ""
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 
+preview: 
+categories: Antiretroviral therapy
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://medicalxpress.com/news/2019-10-antiretroviral-hiv-medication-attenuates-liver.html>
+
+
+![]()
+
+
+Word count : 
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** |  |
+| **Date of publication and newspaper** |  /  |
+| **General topic** |  |
+| **Procedure / what was examined** |  |
+| **Conclusion / discovery** |  |
+| **Remaining questions** |  |
+
+

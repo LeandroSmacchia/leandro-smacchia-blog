@@ -6,7 +6,7 @@ author:
     url: {}
 date: 12-15-2019
 preview: Image/images.jpeg
-categories: Treatment
+categories: Gene therapy and other new treatments
 output:
   distill::distill_article:
     self_contained: false
@@ -44,6 +44,6 @@ Word count : 478
 | **General topic** | Development of a new way of treating HIV that focuses on a protein regulating gene replication |
 | **Procedure / what was examined** | They created a set of chemical coupounds they tested with the aim to make the target-protein destroy the HIV. They then applied further tests to the best coumpound. |
 | **Conclusion / discovery** | It has considerably slown down the comeback of the HIV on an infection model. |
-| **Remaining questions** | They will carry on with improving this kind of molecules. Effectiveness of a tratment ? |
+| **Remaining questions** | They will carry on with improving this kind of molecules. Effectiveness of a treatment ? |
 
 

@@ -1,0 +1,55 @@
+---
+title: "Article 9 : Innate protein restricts HIV replication by targeting lipid rafts"
+description: ""
+author:
+  - name: Smacchia Leandro
+    url: {}
+date: 
+preview: 
+categories: Gene therapy and other new treatments
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<https://www.sciencedaily.com/releases/2020/02/200210104118.htm>
+
+
+![]()
+
+
+Word count : 
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## Analysis table 
+
+|  |  |  |
+|--|--|--|
+| **Researchers** |  |
+| **Date of publication and newspaper** |  /  |
+| **General topic** |  |
+| **Procedure / what was examined** |  |
+| **Conclusion / discovery** |  |
+| **Remaining questions** |  |
+
+

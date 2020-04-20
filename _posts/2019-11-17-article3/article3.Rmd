@@ -6,7 +6,7 @@ author:
     url: {}
 date: 11-17-2019
 preview: Images/Dr-Owen-Mugurungi-.jpg
-categories: Treatment
+categories: Antiretroviral therapy
 output:
   distill::distill_article:
     self_contained: false
@@ -15,6 +15,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+<https://www.chronicle.co.zw/new-hiv-drug-launched/>
 
 
 ![Dr Owen Mugurungi](Images/Dr-Owen-Mugurungi-.jpg)
@@ -46,4 +48,4 @@ Word count : 451
 | **Conclusion / discovery** | It has less side effects than the previous one. "It is more effective in viral supression". It inhibits the ability of the virus to replicate. |
 | **Remaining questions** | Will the new medication be worth the switch ? Still this isn't a treatment that cures from HIV, will we discover one ? |
 
-<https://www.chronicle.co.zw/new-hiv-drug-launched/>
+

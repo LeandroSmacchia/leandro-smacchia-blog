@@ -4,7 +4,7 @@ description: Here is a brief depiction of what i am doing every day or week, or 
 author:
   - name: Smacchia Leandro
     url: {}
-date: 11-17-2019
+date: 10-06-2019
 preview: Image/Binging_with_Babish.jpg
 output:
   distill::distill_article:
@@ -89,6 +89,9 @@ knitr::opts_chunk$set(echo = FALSE)
   + Harry Potter
   + The hunger games
   + ...
+* Series
+  + Vikings
+  + The witcher
 
 
 ### Listenings
