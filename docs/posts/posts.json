@@ -9,12 +9,29 @@
         "url": {}
       }
     ],
-    "date": "2020-04-20",
+    "date": "2020-04-22",
     "categories": [
       "Gene therapy and other new treatments"
     ],
     "preview": {},
-    "last_modified": "2020-04-20T16:50:45+02:00"
+    "last_modified": "2020-04-20T17:16:12+02:00"
+  },
+  {
+    "path": "posts/2020-04-20-article9/",
+    "title": "Article 9 : Innate protein restricts HIV replication by targeting lipid rafts",
+    "description": "",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-21",
+    "categories": [
+      "Gene therapy and other new treatments"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-20T17:15:43+02:00"
   },
   {
     "path": "posts/2020-04-20-article8/",
@@ -31,24 +48,7 @@
       "Antiretroviral therapy"
     ],
     "preview": {},
-    "last_modified": "2020-04-20T16:55:09+02:00"
-  },
-  {
-    "path": "posts/2020-04-20-article9/",
-    "title": "Article 9 : Innate protein restricts HIV replication by targeting lipid rafts",
-    "description": "",
-    "author": [
-      {
-        "name": "Smacchia Leandro",
-        "url": {}
-      }
-    ],
-    "date": "2020-04-20",
-    "categories": [
-      "Gene therapy and other new treatments"
-    ],
-    "preview": {},
-    "last_modified": "2020-04-20T16:55:26+02:00"
+    "last_modified": "2020-04-20T17:15:33+02:00"
   },
   {
     "path": "posts/2020-02-29-article7/",
