@@ -1,6 +1,6 @@
 ---
 title: "Article 8 : Antiretroviral HIV medication attenuates liver fibrosis"
-description: ""
+description: "One medicine used for treating HIV has benefits on liver fibrosis"
 author:
   - name: Smacchia Leandro
     url: {}
@@ -29,16 +29,13 @@ Word count : 230
 
 | Words from the text | Synonym/explanation in English | French translation |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Prevalence | High incidence | Prévalence |
+| Preclinical | Of or pertaining to the period prior to the appearance of the symptoms.
+ | Préclinique |
+| Stellate cells | Star-shaped cells located in the space of Disse whose role is unclear but mostly consists of storing vitamin A and producing fibrotic tissues when the liver is damaged | Cellule stellaire ou de Ito |
+| Aetiology | Study, analysis of the causes (of a disease) | Étiologie |
+| Retrospective study | A study using data already published | Étude rétrospective |
+| Regimen | In this case : Particular medicines and their inherent rules | Régime |
 
 
 ## Analysis table 
@@ -47,9 +44,9 @@ Word count : 230
 |--|--|--|
 | **Researchers** | Scientists from Valencia University (UV) |
 | **Date of publication and newspaper** | 22-10-2019 / *MedicalXpress* |
-| **General topic** |  |
-| **Procedure / what was examined** |  |
-| **Conclusion / discovery** |  |
-| **Remaining questions** |  |
+| **General topic** | The effects of the antiretroviral therapy *Rilpivirine (RPV)* on liver fibrosis |
+| **Procedure / what was examined** | Researchers were analysing the clinical data of patients contaminated with HIV and who were on various antiretroviral treatments and saw an improved liver function for those who were taking RPV. |
+| **Conclusion / discovery** | RPV stops lipids from accumulating, has anti-inflammatory and anti-fibrotic properties and therefore reduce liver fibrosis. RPV has these effects on liver fibrosis no matter what caused it. |
+| **Remaining questions** | We have to find specific treatments for liver fibrosis. This discovery is a first step to this. |
 
 
