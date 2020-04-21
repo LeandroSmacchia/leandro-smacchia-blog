@@ -48,7 +48,7 @@
       "Antiretroviral therapy"
     ],
     "preview": "posts/2020-04-21-article8/Image/ValenciaUC.jpg",
-    "last_modified": "2020-04-21T17:58:12+02:00"
+    "last_modified": "2020-04-21T18:04:31+02:00"
   },
   {
     "path": "posts/2020-02-29-article7/",
@@ -65,7 +65,7 @@
       "Gene therapy and other new treatments"
     ],
     "preview": "posts/2020-02-29-article7/Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg",
-    "last_modified": "2020-04-20T18:37:21+02:00"
+    "last_modified": "2020-04-20T18:37:22+02:00"
   },
   {
     "path": "posts/2020-02-16-article6/",
@@ -168,5 +168,20 @@
     ],
     "preview": "posts/2019-10-20-article1/Image/images.jpeg",
     "last_modified": "2020-04-20T16:52:16+02:00"
+  },
+  {
+    "path": "posts/2019-10-06-meal/",
+    "title": "My English Activity log",
+    "description": "Here is a brief depiction of what i am doing every day or week, or even more occasionally in english.",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-06",
+    "categories": [],
+    "preview": "posts/2019-10-06-meal/Image/Binging_with_Babish.jpg",
+    "last_modified": "2020-04-20T16:05:05+02:00"
   }
 ]
