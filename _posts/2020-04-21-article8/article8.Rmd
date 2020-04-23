@@ -30,7 +30,7 @@ Word count : 230
 | Words from the text | Synonym/explanation in English | French translation |
 |--|--|--|
 | Prevalence | High incidence | Prévalence |
-| Preclinical | Of or pertaining to the period prior to the appearance of the symptoms. | Préclinique |
+| Preclinical | Of or pertaining to the period prior to the appearance of the symptoms | Préclinique |
 | Stellate cells | Star-shaped cells located in the space of Disse whose role is unclear but mostly consists of storing vitamin A and producing fibrotic tissues when the liver is damaged | Cellule stellaire ou de Ito |
 | Aetiology | Study, analysis of the causes (of a disease) | Étiologie |
 | Retrospective study | A study using data already published | Étude rétrospective |
