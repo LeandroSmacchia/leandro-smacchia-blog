@@ -1,6 +1,6 @@
 ---
 title: "Article 3 : New HIV drug launched"
-description: "A new, more efficient antiretroviral therapy has been launched in Zimbabwe"
+description: "A new, more efficient antiretroviral therapy has been launched in Zimbabwe."
 author:
   - name: Smacchia Leandro
     url: {}

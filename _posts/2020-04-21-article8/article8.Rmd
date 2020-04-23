@@ -1,6 +1,6 @@
 ---
 title: "Article 8 : Antiretroviral HIV medication attenuates liver fibrosis"
-description: "One medicine used for treating HIV has benefits on liver fibrosis"
+description: "One medicine used for treating HIV has benefits on liver fibrosis."
 author:
   - name: Smacchia Leandro
     url: {}

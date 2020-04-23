@@ -1,6 +1,6 @@
 ---
 title: "Article 2 : Belgian researchers unveil breakthrough discovery for HIV treatment"
-description: "The university of Gent found where the residual cells of the disease hid"
+description: "The university of Gent found where the residual cells of the disease hid."
 author:
   - name: Smacchia Leandro
     url: {}

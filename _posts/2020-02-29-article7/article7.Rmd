@@ -1,6 +1,6 @@
 ---
 title: "Article 7 : Can Gene Therapy Cure HIV? US Gov't. Is Banking $100 Million On It."
-description: "The U.S. National Institutes of Health and The Bill & Melinda Gates Foundation are willing to cure HIV and sickle cell disease with gene therapies and will invest each 100 million dollars in 4 years on it"
+description: "The U.S. National Institutes of Health and The Bill & Melinda Gates Foundation are willing to cure HIV and sickle cell disease with gene therapies and will invest each 100 million dollars in 4 years on it."
 author:
   - name: Smacchia Leandro
     url: {}

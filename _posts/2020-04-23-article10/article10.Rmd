@@ -1,6 +1,6 @@
 ---
 title: "Article 10 : Second patient cured of HIV, say doctors"
-description: ""
+description: "Adam Castillejo is free of the HIV for now two years and a half. He is the second reported case ever."
 author:
   - name: Smacchia Leandro
     url: {}
@@ -29,16 +29,10 @@ Word count : 648
 
 | Words from the text | Synonym/explanation in English | French translation |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Semen | Sperm | Semence, sperme |
+| Haematological | Relating to study of blood disease | Hématologique |
+| Malignancies | Life threatening cancer | Malignité |
+| Humbling | That makes you less arogant | Qui rend humble |
 
 
 ## Analysis table 
@@ -47,9 +41,9 @@ Word count : 648
 |--|--|--|
 | **Researchers** | Ravindra Kumar Gupta from the University of Cambridge |
 | **Date of publication and newspaper** | 10-03-2020 / *BBC NEWS* |
-| **General topic** |  |
-| **Procedure / what was examined** |  |
-| **Conclusion / discovery** |  |
-| **Remaining questions** |  |
+| **General topic** | A man living in London is considered cured of HIV |
+| **Procedure / what was examined** | The patient, as well as the first ever case of HIV recovery, were also suffering from leukemia. They underwent a stem cell transplant for their cancer. The donors had a rare mutation on the CCR5 receptor gene - which is used by HIV-1 to enter cells - that make them immune to HIV-1 infection. |
+| **Conclusion / discovery** | The two patients undergoing the stem cells transplant are now considered cured of HIV |
+| **Remaining questions** | Although it won't be a treatment for all people infected by the virus, it installs a new path to a cure. |
 
 

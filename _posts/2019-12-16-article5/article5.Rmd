@@ -1,6 +1,6 @@
 ---
 title: "Article 5 : Newly developed approach shows promise in silencing HIV infection"
-description: "A new way of treating HIV is being developped"
+description: "A new way of treating HIV is being developped."
 author:
   - name: Smacchia Leandro
     url: {}
