@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-04-25-conclusion/",
+    "title": "Conclusion",
+    "description": "",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-25",
+    "categories": [],
+    "preview": "posts/2020-04-25-conclusion/Image/Hope.jpg",
+    "last_modified": "2020-04-26T20:40:56+02:00"
+  },
+  {
     "path": "posts/2020-04-23-article10/",
     "title": "Article 10 : Second patient cured of HIV, say doctors",
     "description": "Adam Castillejo is free of the HIV for now two years and a half. He is the second reported case ever.",
@@ -166,8 +181,25 @@
     "categories": [
       "Gene therapy and other new treatments"
     ],
-    "preview": "posts/2019-10-20-article1/Image/images.jpeg",
-    "last_modified": "2020-04-20T16:52:16+02:00"
+    "preview": "posts/2019-10-20-article1/Image/HIVAIDS.jpg",
+    "last_modified": "2020-04-26T20:15:32+02:00"
+  },
+  {
+    "path": "posts/2019-10-13-introduction/",
+    "title": "Introduction",
+    "description": "How about we take a look at A.I.D.S.",
+    "author": [
+      {
+        "name": "Smacchia Leandro",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-13",
+    "categories": [],
+    "preview": "posts/2019-10-13-introduction/Image/ruban.png",
+    "last_modified": "2020-04-26T20:12:24+02:00",
+    "preview_width": 900,
+    "preview_height": 600
   },
   {
     "path": "posts/2019-10-06-meal/",
@@ -182,6 +214,6 @@
     "date": "2019-10-06",
     "categories": [],
     "preview": "posts/2019-10-06-meal/Image/Binging_with_Babish.jpg",
-    "last_modified": "2020-04-20T16:05:05+02:00"
+    "last_modified": "2020-04-23T16:16:28+02:00"
   }
 ]

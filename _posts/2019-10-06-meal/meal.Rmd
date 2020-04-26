@@ -1,6 +1,6 @@
 ---
 title: "My English Activity log"
-description: Here is a brief depiction of what i am doing every day or week, or even more occasionally in english.
+description: "Here is a brief depiction of what i am doing every day or week, or even more occasionally in english."
 author:
   - name: Smacchia Leandro
     url: {}

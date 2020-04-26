@@ -1,11 +1,11 @@
 ---
 title: "Introduction"
-description: |
-  A short description of the post.
+description: "How about we take a look at A.I.D.S."
 author:
   - name: Smacchia Leandro
     url: {}
-date: 10-13-2020
+date: 10-13-2019
+preview: Image/ruban.png
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,22 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# HIV / A.I.D.S
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+The Acquired Immune Deficiency Syndrome or **A.I.D.S.** is the associated disease of the Human Immunodefciency Virus commonly known as **HIV**.
+The HIV is part of the virus family called **retroviruses** which means it is an RNA virus that transcript his genes backwards to insert them in the host cell's DNA. This has as a consequence that the host cell expresses viral genes like they were part of its initial genome. The HIV is spread by unprotected sex, blood transfusions, etc.
 
+Infection by the HIV initiates with, after two to four weeks a stage of few or no symptoms which include fever, a flu-like illness, etc. It then develops and goes though another stage before reaching the final state of the infection : **A.I.D.S.**. People affected by A.I.D.S have low immunity and are thus subjects to various infections and tumors.
+
+
+# My portfolio
+
+Here, we are taking a look at this widespread disease for which we don't have a cure yet. Indeed most person infected by the virus are treated with **antiretroviral therapy**. What i am trying to do and to share is **understanding the disease** with the newest informations about the virus and the last discoveries/studies. I also have a particular interest in new approaches to treatments like **gene therapy and other new treatments**.
+
+The articles of this portfolio will be sorted in three categories :
+
+* Understanding the disease
+* Antiretroviral therapy
+* Gene therapy and other new treatments
+
+I hope this portfolio will entertain your interest and, i am sure, make you learn some things.

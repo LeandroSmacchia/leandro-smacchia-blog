@@ -1,11 +1,11 @@
 ---
 title: "Conclusion"
-description: |
-  A short description of the post.
+description: ""
 author:
   - name: Smacchia Leandro
     url: {}
-date: 04-25-2020
+date: 04-26-2020
+preview: Image/Hope.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,5 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+The HIV is a virus still full of mysteries. Numerous scientists are trying to see though its secrets and yet, we haven't developed any cure. Most HIV positive people are on antiretroviral therapy.

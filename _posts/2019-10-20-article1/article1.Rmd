@@ -5,7 +5,7 @@ author:
   - name: Smacchia Leandro
     url: {}
 date: 10-20-2019
-preview: Image/images.jpeg
+preview: Image/HIVAIDS.jpg
 categories: Gene therapy and other new treatments
 output:
   distill::distill_article:
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-researchers-isolate-switch-that-kills-inactive-hiv>
 
 
-![](Image/images.jpeg)
+![](Image/HIVAIDS.jpg)
 
 
 Word count : 498
