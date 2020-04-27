@@ -1,6 +1,6 @@
 ---
 title: "Conclusion"
-description: ""
+description: "One day the A.I.D.S. symbol will be flipped into a 'V' for victory."
 author:
   - name: Smacchia Leandro
     url: {}
@@ -15,5 +15,18 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# My blog in a nutshell
 
-The HIV is a virus still full of mysteries. Numerous scientists are trying to see though its secrets and yet, we haven't developed any cure. Most HIV positive people are on antiretroviral therapy.
+The HIV is a virus still full of mysteries. Numerous scientists are trying to see through its secrets and yet, we haven't developed any cure. Indeed, most HIV positive people are on antiretroviral therapy which helps them to live a normal life, but without being cured. 
+
+However, the future is promising. We go through more and more discoveries and some of them are breakthough like the place where the virus hide in our body.
+Two people have even been cured of HIV ! How extraordinary this is ? We know that with a certain mutation of a certain gene, we can be immune to HIV.
+
+So, there is hope. Hope of finding a cure one day and eradicate this scary virus.
+
+
+# My thoughts
+
+It was very interesting reading about new major discoveries and new paths to finding a cure. I am not disapointed of the things that i've learned. It was also very interesting and kind of fun to see that antiretroviral therapy could improve conditions for people with liver fibrosis. It shows us that we are not safe from surprises, and that good news can come from a bad situation.
+
+I hope reading this portfolio was pleasant to you and that it caught your interest.
