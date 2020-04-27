@@ -16,7 +16,7 @@ output:
 <https://medicalxpress.com/news/2019-06-newly-immune-cells-frontline-hiv.html>
 
 
-![1 / 1Sampling of HIV (red) by the newly described dendritic cells (green). Credit: The Westmead Institute for Medical Research](Images/13-newlydiscove.jpg)
+![1 / 1 Sampling of HIV (red) by the newly described dendritic cells (green). Credit: The Westmead Institute for Medical Research](Images/13-newlydiscove.jpg)
 
 
 Word count : 591

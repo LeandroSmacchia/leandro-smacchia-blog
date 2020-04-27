@@ -11,7 +11,7 @@ output:
 
 How about we take a look at A.I.D.S.
 
-![Ribbon](../2019-10-13-introduction/Image/ruban.png)
+![The red ribbon (the universal symbol of awareness and support for people living with HIV)](../2019-10-13-introduction/Image/ruban.png)
 
 
 ## HIV / A.I.D.S.
@@ -77,7 +77,7 @@ Word count : 498
 
 The university of Gent found where the residual cells of the disease hid.
 
-![A woman holds an antiretroviral drug to treat HIV infection in her palm. Credit: NIAID/Flickr (CC BY 2.0)](Images/32596243406_13a83a2a4c_z.jpg)
+![A woman holds an antiretroviral drug to treat HIV infection in her palm. Credit: NIAID/Flickr (CC BY 2.0)](../2019-11-03-article2/Images/32596243406_13a83a2a4c_z.jpg)
 
 Word count : 399
 
@@ -148,7 +148,7 @@ Word count : 451
 
 New immune cells involved in HIV infection were discovered.
 
-![1 / 1Sampling of HIV (red) by the newly described dendritic cells (green). Credit: The Westmead Institute for Medical Research](../2019-12-01-article4/Images/13-newlydiscove.jpg)
+![1 / 1 Sampling of HIV (red) by the newly described dendritic cells (green). Credit: The Westmead Institute for Medical Research](../2019-12-01-article4/Images/13-newlydiscove.jpg)
 
 Word count : 591
 
@@ -252,7 +252,7 @@ Word count : 426
 
 The U.S. National Institutes of Health and The Bill & Melinda Gates Foundation are willing to cure HIV and sickle cell disease with gene therapies and will invest each 100 million dollars in 4 years on it.
 
-![Image: © Shutterstock](../2020-02-29-article7/Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg)
+![DNA - Image: © Shutterstock](../2020-02-29-article7/Image/V9siHj7wkgNJpVweTxjxJB-650-80.jpg)
 
 Word count : 539
 
@@ -390,7 +390,7 @@ Word count : 648
 
 One day the A.I.D.S. symbol will be flipped into a 'V' for victory.
 
-![Hope](../2020-04-25-conclusion/Image/Hope.jpg)
+![The red ribbon with hope](../2020-04-25-conclusion/Image/Hope.jpg)
 
 
 # My blog in a nutshell
