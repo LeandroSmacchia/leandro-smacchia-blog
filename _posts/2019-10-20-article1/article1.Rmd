@@ -12,14 +12,11 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 <https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-researchers-isolate-switch-that-kills-inactive-hiv>
 
 
-![](Image/HIVAIDS.jpg)
+![HIV/AIDS](Image/HIVAIDS.jpg)
 
 
 Word count : 498

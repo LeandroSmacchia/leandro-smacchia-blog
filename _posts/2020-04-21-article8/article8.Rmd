@@ -12,9 +12,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 <https://medicalxpress.com/news/2019-10-antiretroviral-hiv-medication-attenuates-liver.html>
 

@@ -12,9 +12,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 <https://www.brusselstimes.com/all-news/belgium-all-news/health/68651/belgian-researchers-unveil-breakthrough-discovery-in-hiv-treatment/>
 

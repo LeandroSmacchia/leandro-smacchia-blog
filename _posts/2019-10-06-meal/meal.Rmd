@@ -11,9 +11,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 # My English activity log
 
@@ -107,8 +104,6 @@ knitr::opts_chunk$set(echo = FALSE)
 * Helping friends to do their english homework.
 * Using my english in holidays when i'm in a foreigner coountry.
 * Speaking english with a lab assistant
-
-
 
 
 # A short description of the log

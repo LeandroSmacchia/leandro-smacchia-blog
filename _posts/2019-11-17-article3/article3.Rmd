@@ -12,9 +12,6 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 <https://www.chronicle.co.zw/new-hiv-drug-launched/>
 
@@ -34,7 +31,6 @@ Word count : 451
 | Hence | Therefore | D'où |
 | Screening | Scan for abnormalities | Dépistage |
 | Facility | Building, unit | Complexe, établissement |
-
 
 
 ## Analysis table 

@@ -12,14 +12,11 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 <https://www.sciencedaily.com/releases/2019/08/190806121149.htm>
 
 
-![](Image/images.jpeg)
+![HIV structure](Image/images.jpeg)
 
 
 Word count : 478

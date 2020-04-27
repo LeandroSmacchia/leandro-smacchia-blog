@@ -11,11 +11,8 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
-# HIV / A.I.D.S
+# HIV / A.I.D.S.
 
 The Acquired Immune Deficiency Syndrome or **A.I.D.S.** is the associated disease of the Human Immunodefciency Virus commonly known as **HIV**.
 The HIV is part of the virus family called **retroviruses** which means it is an RNA virus that transcript his genes backwards to insert them in the host cell's DNA. This has as a consequence that the host cell expresses viral genes like they were part of its initial genome. The HIV is spread by unprotected sex, blood transfusions, etc.
